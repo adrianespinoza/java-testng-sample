@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20" started-at="2013-10-08T19:37:18Z" finished-at="2013-10-08T19:37:18Z">
+    <groups>
+      <group name="A">
+        <method signature="TestClass1.A1()[pri:0, instance:aveh.tests.TestClass1@63c4fb04]" name="A1" class="aveh.tests.TestClass1"/>
+      </group> <!-- A -->
+      <group name="B">
+        <method signature="TestClass1.B1()[pri:0, instance:aveh.tests.TestClass1@63c4fb04]" name="B1" class="aveh.tests.TestClass1"/>
+      </group> <!-- B -->
+    </groups>
+    <test name="Default test" duration-ms="20" started-at="2013-10-08T19:37:18Z" finished-at="2013-10-08T19:37:18Z">
+      <class name="aveh.tests.TestClass1">
+        <test-method status="PASS" signature="beforeA()[pri:0, instance:aveh.tests.TestClass1@63c4fb04]" name="beforeA" is-config="true" duration-ms="4" started-at="2013-10-08T15:37:18Z" finished-at="2013-10-08T15:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeA -->
+        <test-method status="PASS" signature="beforeB()[pri:0, instance:aveh.tests.TestClass1@63c4fb04]" name="beforeB" is-config="true" duration-ms="1" started-at="2013-10-08T15:37:18Z" finished-at="2013-10-08T15:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeB -->
+        <test-method status="PASS" signature="A1()[pri:0, instance:aveh.tests.TestClass1@63c4fb04]" name="A1" duration-ms="4" started-at="2013-10-08T15:37:18Z" finished-at="2013-10-08T15:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A1 -->
+        <test-method status="PASS" signature="beforeA()[pri:0, instance:aveh.tests.TestClass1@63c4fb04]" name="beforeA" is-config="true" duration-ms="0" started-at="2013-10-08T15:37:18Z" finished-at="2013-10-08T15:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeA -->
+        <test-method status="PASS" signature="beforeB()[pri:0, instance:aveh.tests.TestClass1@63c4fb04]" name="beforeB" is-config="true" duration-ms="0" started-at="2013-10-08T15:37:18Z" finished-at="2013-10-08T15:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeB -->
+        <test-method status="PASS" signature="B1()[pri:0, instance:aveh.tests.TestClass1@63c4fb04]" name="B1" duration-ms="0" started-at="2013-10-08T15:37:18Z" finished-at="2013-10-08T15:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B1 -->
+      </class> <!-- aveh.tests.TestClass1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
